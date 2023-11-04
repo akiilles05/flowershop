@@ -2,6 +2,8 @@ import React from "react";
 
 import Logo from "../assets/logo.png";
 
+import { Link } from "react-scroll";
+
 const Header = () => {
   return (
     <div className="py-8">
