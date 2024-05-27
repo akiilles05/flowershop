@@ -5,14 +5,6 @@ Welcome to the Flower Shop repository, a florist web application built using Rea
 ## Demo
 Check out the live demo of the project [here](https://flowershop-eight.vercel.app).
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 - **Home**: Overview of featured products and latest collections.
 - **About**: Information about the flower shop and its mission.
